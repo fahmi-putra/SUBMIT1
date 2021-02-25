@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">SUBMIT1</string>
+    <string name="name_anggoes">Nama Anggota</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="data_username">Username : %s</string>
+    <string name="data_company">Company : %s</string>
+    <string name="data_followers">Followers : %s</string>
+    <string name="data_followings">Following : %s</string>
+    <string name="data_repository">Repository : %s</string>
+    <string name="data_location">Location : %s</string>
+    <string name="data_photo">Photo</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="data_name">
+        <item>Abdul Karim</item>
+        <item>Ariz Azhari</item>
+        <item>Fakhrurrozi Zai</item>
+        <item>Jevan Nelson</item>
+        <item>Ade Wahyu</item>
+        <item>Anggi Setiawan</item>
+        <item>Reza Kurniawan</item>
+        <item>Yuka Setiawan</item>
+        <item>Beni Ardy</item>
+        <item>Angga Meigi</item>
+        <item>Putu Sucitra</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>Karim</item>
+        <item>Aris</item>
+        <item>Oji</item>
+        <item>Jevan</item>
+        <item>Aweka</item>
+        <item>Anggi</item>
+        <item>Reza</item>
+        <item>Yuka</item>
+        <item>Beni</item>
+        <item>Angga</item>
+        <item>Putu</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>NauliBan</item>
+        <item>Tiga Raksa</item>
+        <item>Luxart</item>
+        <item>KLHK</item>
+        <item>LKPP</item>
+        <item>Samator</item>
+        <item>UIN RADEN INTAN</item>
+        <item>Batik Bule</item>
+        <item>Aidia Media Semesta</item>
+        <item>Dinkes</item>
+        <item>Hotel Novotel</item>
+    </string-array>
+
+    <integer-array name="data_followers">
+        <item>150</item>
+        <item>200</item>
+        <item>350</item>
+        <item>245</item>
+        <item>276</item>
+        <item>256</item>
+        <item>295</item>
+        <item>231</item>
+        <item>299</item>
+        <item>291</item>
+        <item>283</item>
+    </integer-array>
+
+    <integer-array name="data_followings">
+        <item>8</item>
+        <item>18</item>
+        <item>16</item>
+        <item>20</item>
+        <item>11</item>
+        <item>15</item>
+        <item>22</item>
+        <item>24</item>
+        <item>25</item>
+        <item>29</item>
+        <item>19</item>
+    </integer-array>
+
+    <integer-array name="data_repository">
+        <item>20</item>
+        <item>28</item>
+        <item>27</item>
+        <item>26</item>
+        <item>30</item>
+        <item>23</item>
+        <item>33</item>
+        <item>31</item>
+        <item>27</item>
+        <item>26</item>
+        <item>25</item>
+        <item>29</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>Metro, Lampung</item>
+        <item>Jakarta Timur, Jakarta</item>
+        <item>Bandar Lampung, Lampung</item>
+        <item>Jakarta Barat, Jakarta</item>
+        <item>Jakarta Selatan, Jakarta</item>
+        <item>Bandar Lampung, Lampung</item>
+        <item>Bandar Lampung, Lampung</item>
+        <item>Bandar Lampung, Lampung</item>
+        <item>Tanggerang Selatan, Tanggerang</item>
+        <item>Bandar Lampung, Lampung</item>
+        <item>Bali, Bali</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/abdul_karim</item>
+        <item>@drawable/ariz_azhari</item>
+        <item>@drawable/fakhrurrozi_zain</item>
+        <item>@drawable/jevan_nelson</item>
+        <item>@drawable/ade_wahyu</item>
+        <item>@drawable/anggi_setiawan</item>
+        <item>@drawable/reza_kurniawan</item>
+        <item>@drawable/yuka_setiawan</item>
+        <item>@drawable/beni_ardy</item>
+        <item>@drawable/angga_meigi</item>
+        <item>@drawable/putu_sucitra</item>
+    </array>
+</resources>
